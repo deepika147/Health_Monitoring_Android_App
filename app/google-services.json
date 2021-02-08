@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "1058780769821",
+    "firebase_url": "https://healthfitness-d654-default-rtdb.firebaseio.com",
+    "project_id": "healthfitness-d654",
+    "storage_bucket": "healthfitness-d654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058780769821:android:dbf12326d5435ffcafe0f4",
+        "android_client_info": {
+          "package_name": "com.example.healthfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058780769821-a6a8i7vhhnrokdsj4qffu06e735dnk8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDMEiDxyWJ34__44OlGypf2nX-Z0LFbYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058780769821-a6a8i7vhhnrokdsj4qffu06e735dnk8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058780769821:android:1de800a26e3d9430afe0f4",
+        "android_client_info": {
+          "package_name": "com.example.healthfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058780769821-a6a8i7vhhnrokdsj4qffu06e735dnk8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDMEiDxyWJ34__44OlGypf2nX-Z0LFbYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058780769821-a6a8i7vhhnrokdsj4qffu06e735dnk8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058780769821:android:3abcb740e61e8fd9afe0f4",
+        "android_client_info": {
+          "package_name": "com.example.tcshealthportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058780769821-a6a8i7vhhnrokdsj4qffu06e735dnk8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDMEiDxyWJ34__44OlGypf2nX-Z0LFbYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058780769821-a6a8i7vhhnrokdsj4qffu06e735dnk8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058780769821:android:fb2f762c91974195afe0f4",
+        "android_client_info": {
+          "package_name": "healthfitness.d654"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058780769821-a6a8i7vhhnrokdsj4qffu06e735dnk8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDMEiDxyWJ34__44OlGypf2nX-Z0LFbYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058780769821-a6a8i7vhhnrokdsj4qffu06e735dnk8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

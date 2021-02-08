@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="temparatureview" type="id" />
+    <item name="bloodpressureview" type="id" />
+    <item name="respirationview" type="id" />
+    <item name="heartrateview" type="id" />
+    <item name="oxygenview" type="id" />
+    <item name="glucoseview" type="id" />
+    <item name="nameview" type="id" />
+    <item name="ageview" type="id" />
+    <item name="mailidview" type="id" />
+</resources>

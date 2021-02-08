@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="37dp"
+        android:text="Enter Your Name:"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.137"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="HardcodedText" />
+    <EditText
+        android:id="@+id/user_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="Autofill,LabelFor,MissingConstraints,TextFields"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="42dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/response"
+        tools:ignore="MissingConstraints" />
+    <TextView
+        android:layout_width="632dp"
+        android:layout_height="30dp"
+        android:text="Age"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.137"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="HardcodedText" />
+
+    <EditText
+        android:id="@+id/user_name"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        tools:ignore="Autofill,DuplicateIds,LabelFor,MissingConstraints,TextFields"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="42dp" />
+    <TextView
+        android:id="@+id/response"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="DuplicateIds,MissingConstraints" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="enter your mail id:" />
+
+    <EditText
+        android:id="@+id/user_name1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="mail id" />
+    <Button
+        android:id="@+id/click_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="click here to continue" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/response1"/>
+
+
+</LinearLayout>
